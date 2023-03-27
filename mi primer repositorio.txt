@@ -1,0 +1,3 @@
+Alex Coraite
+
+este es mi primer repositorio creado desde git bash
